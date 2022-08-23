@@ -5,3 +5,4 @@
 ![Screenshot_1660200469](https://user-images.githubusercontent.com/82104183/186228520-41ed1b88-3847-43a3-8846-b13048fd662f.png)
 
 ![Ekran Görüntüsü (219)](https://user-images.githubusercontent.com/82104183/186228893-07496d8c-0f06-4a65-9aae-a6cd708fac1b.png)
+İlk önce yapay zekâ ve derin öğrenme modellerini eğiterek ilk aşama tamamlandı. Ardından bunların kullanıcının daha rahat anlayabilmesi için bir mobil uygulama geliştirildi. Geliştirilen derin öğrenme modeli ile mobil uygulama birleştirildi. Sonunda ise sürekli kendini güncel tutan ve yüksek oranda doğru tahminlerde bulunan bir proje çıkarıldı.

@@ -11,3 +11,4 @@
 
 About
 Derin öğrenme ile Cifar10 veri setinde sınıflandırma yapıldı.
+2 repo birlestirildi.
